@@ -1,7 +1,10 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ous50&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+**Hi there 👋**
+[![ous50's GitHub stats](https://github-readme-stats.vercel.app/api?username=ous50&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ous50)](https://github.com/anuraghazra/github-readme-stats)
+
+## Magic Number
+[![Visited Count](https://moe-counter.glitch.me/get/@ous50?theme=gelbooru)]
 <!--
 **ous50/ous50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
